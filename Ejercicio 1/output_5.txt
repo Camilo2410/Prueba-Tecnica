@@ -1,0 +1,7 @@
+Resultado de la prueba 3:
+
+Result: False.
+
+La prubea fallo.
+
+se confirma que el conjunto de caracteres "radara" no es un palindromo.

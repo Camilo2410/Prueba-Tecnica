@@ -1,0 +1,7 @@
+Resultado de la prueba 1:
+
+Result: True.
+
+La prubea se ejecuto con exito.
+
+se confirma que el conjunto de caracteres "luz azul" es un palindromo.

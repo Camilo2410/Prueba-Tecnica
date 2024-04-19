@@ -1,0 +1,7 @@
+Resultado de la prueba 4:
+
+Result: True.
+
+La prubea se ejecuto con exito.
+
+se confirma que el conjunto de caracteres "Luz Azul" es un palindromo.

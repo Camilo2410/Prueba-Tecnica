@@ -1,0 +1,7 @@
+Resultado de la prueba 2:
+
+Result: True.
+
+La prubea se ejecuto con exito.
+
+se confirma que el conjunto de caracteres "oso" es un palindromo.
