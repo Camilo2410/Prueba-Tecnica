@@ -1,0 +1,5 @@
+Resultado de la prueba 5:
+
+La prubea se ejecuto con exito.
+
+La prueba se realizo con 4 valores aleatorios para x (4, 1000, 74 y 5670 ) y en los 4 obtubimos los valores esperados.

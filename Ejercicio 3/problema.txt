@@ -1,0 +1,14 @@
+Descripción del Problema de Saltos Mínimos:
+
+El problema consiste en determinar el número mínimo de saltos necesarios para llegar desde el punto 0 en el eje X a un punto x positivo dado, usando una serie específica de movimientos permitidos. Cada salto depende del número de saltos previamente realizados:
+
+1. Puedes saltar desde un punto y a y + k, donde k es el número total de saltos realizados más uno.
+2. Alternativamente, puedes saltar desde un punto y a y - 1, independientemente de cuántos saltos hayas realizado anteriormente.
+
+El objetivo es calcular el número mínimo de saltos necesarios para alcanzar exactamente el punto x.
+
+Ejemplo:
+Para x = 1, el mínimo número de saltos es 1: Saltar directamente a 1 (0 + 1).
+Para x = 2, el mínimo número de saltos es 3: Saltar a 1, luego a 3, y finalmente retroceder a 2.
+
+Este problema garantiza que siempre es posible llegar a cualquier punto x desde el origen utilizando una combinación adecuada de estos dos tipos de saltos. La solución requiere una comprensión cuidadosa de cómo las sumas de series y las manipulaciones aritméticas simples pueden usarse para alcanzar el valor deseado de manera eficiente.

@@ -1,0 +1,7 @@
+Resultado de la prueba 4:
+
+La prubea fallo.
+
+x=1 debería requerir 3 saltos
+
+La prueba se realizo con 3 valores pares secuenciales para x (2, 4, 6) pero para x1 se estimo un numero de saltos diferente al esperado.

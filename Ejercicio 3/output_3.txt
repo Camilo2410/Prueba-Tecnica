@@ -1,0 +1,5 @@
+Resultado de la prueba 3:
+
+La prubea se ejecuto con exito.
+
+La prueba se realizo con 4 valores impares secuenciales para x (3, 5, 7, 9) y en los 4 se obtubieron los valores esperados.

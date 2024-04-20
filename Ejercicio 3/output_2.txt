@@ -1,0 +1,5 @@
+Resultado de la prueba 2:
+
+La prubea se ejecuto con exito.
+
+La prueba se realizo con 4 valores Grandes para x ( 1000,2000, 3000, 4000 ) y en los 4 se obtubieron los valores esperados.

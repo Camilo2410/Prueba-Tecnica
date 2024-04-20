@@ -1,0 +1,5 @@
+Resultado de la prueba 1:
+
+La prubea se ejecuto con exito.
+
+La prueba se realizo con 3 valores para x ( 1,2 y 3 ) y en los 3 obtubimos los valores esperados.
