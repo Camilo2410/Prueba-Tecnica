@@ -1,0 +1,27 @@
+Descripción del Problema de Clasificación en la Fórmula 1
+========================================================
+
+Contexto:
+---------
+La Fórmula 1 organiza una serie de carreras conocidas como Grandes Premios. El rendimiento de los pilotos en estas carreras determina quién gana el Campeonato Mundial de Pilotos. Los organizadores de la Fórmula 1 a menudo cambian las reglas de puntuación para mantener el deporte emocionante y competitivo.
+
+Problema:
+---------
+El desafío es determinar quién sería el campeón del mundo bajo diferentes sistemas de puntuación. Dado los resultados de cada carrera de una temporada, se debe calcular el campeón mundial para varios sistemas de puntuación.
+
+Datos de Entrada:
+-----------------
+- Número de Grandes Premios (carreras).
+- Número de pilotos.
+- Resultados de cada carrera, que muestran el orden en que cada piloto terminó.
+- Varios sistemas de puntuación que deben evaluarse.
+
+Requisitos:
+-----------
+El programa debe procesar los resultados de las carreras para cada sistema de puntuación y determinar qué piloto acumula más puntos. Si hay empates, todos los pilotos con la máxima puntuación deben ser reconocidos como campeones.
+
+Salida Esperada:
+----------------
+Identificación del campeón o campeones para cada sistema de puntuación, presentados de forma clara y ordenada.
+
+Este problema requiere una comprensión detallada de cómo sumar puntos basados en posiciones de carrera y cómo diferentes sistemas de puntuación pueden influir en el resultado del campeonato.

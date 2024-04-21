@@ -1,0 +1,5 @@
+Resultado de la solucion:
+
+Accuracy: 0.992017388343811
+
+El modelo se ejecuto con exito y podemos visualizar como se hizo la clasificacion de los tes tipos de clientes-.

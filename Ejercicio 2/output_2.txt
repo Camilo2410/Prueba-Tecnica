@@ -1,0 +1,3 @@
+2. test_different_values_2:
+   - Descripción: Esta prueba evalúa la lógica de puntuación a lo largo de tres carreras para tres pilotos con un sistema de puntuación consistente que premia con 10, 5 y 1 puntos el primer, segundo y tercer puesto respectivamente.
+   - Resultado esperado: El piloto 2 se convierte en el campeón al terminar sistemáticamente en las primeras posiciones, acumulando los puntos totales más altos en todas las carreras, a pesar de los resultados variables de las carreras.

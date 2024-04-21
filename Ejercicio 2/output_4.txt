@@ -1,0 +1,4 @@
+Nombre del Test: test_different_values_4
+
+   - Descripción: Este test evalúa la distribución de puntos en cuatro carreras con cuatro pilotos, utilizando dos sistemas de puntuación diferentes. Cada piloto termina en cada una de las posiciones (1° a 4° lugar) exactamente una vez a lo largo de las carreras.
+   - Resultado Esperado: Se espera un empate entre todos los pilotos bajo ambos sistemas de puntuación, ya que cada piloto acumula la misma cantidad de puntos al final de las cuatro carreras. Esto demuestra que los sistemas de puntuación proporcionan un resultado equitativo cuando todos los pilotos tienen desempeños idénticos a lo largo de las carreras.

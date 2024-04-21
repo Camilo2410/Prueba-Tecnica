@@ -1,0 +1,5 @@
+Nombre del Test: test_different_values_3
+
+   - Descripción: Este test evalúa la lógica de puntuación en una única carrera para dos pilotos con varios sistemas de puntuación. Los sistemas varían en cómo se distribuyen los puntos entre el primer y segundo lugar.
+
+   - Resultado Esperado: El piloto 1 resulta ser el campeón en todos los sistemas de puntuación, ya que consistentemente termina en la primera posición, acumulando la mayor cantidad de puntos en la única carrera realizada.

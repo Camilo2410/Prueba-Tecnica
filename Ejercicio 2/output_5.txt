@@ -1,0 +1,4 @@
+Nombre del Test: Test Valores Diferentes 5
+
+   - Descripción: Evalúa la puntuación en 10 carreras con cuatro pilotos y cuatro sistemas de puntuación distintos, donde los pilotos alternan posiciones frecuentemente.
+   - Resultado Esperado: El piloto 2 gana en los primeros tres sistemas de puntuación y en el ultimo todos empatan.

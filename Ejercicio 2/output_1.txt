@@ -1,0 +1,3 @@
+1. Prueba test_calculate_champions:
+   - Descripción: Prueba un escenario básico con una sola carrera y tres pilotos utilizando tres sistemas de puntuación diferentes.
+   - Resultado esperado: El tercer piloto gana con los dos primeros sistemas debido a la mayor puntuación por el primer puesto. Todos los pilotos empatan con el tercer sistema ya que se otorgan los mismos puntos independientemente de la posición.
